@@ -44,7 +44,7 @@ Code of Conduct
 Contributors are expected to follow our Code of Conduct, both in interactions related to the project and within the project's community. The full Code of Conduct can be found in the CODE OF CONDUCT file.
 
 Contributors
-Duraan Ali Mahamed Mahad Abdiwali Maxamed A.shakour Mohammed 0dayx16 jamaal mahamed maska
+Hamse Mohamoud Mahamed Mahad Abdiwali Maxamed A.shakour Mohammed 0dayx16 jamaal mahamed maska
 
 Questions or Need Help?
 If you have any questions or need further assistance, feel free to Ask the Admin or open an issue.
