@@ -1,7 +1,7 @@
 Pull Request Template
 
 Description
-Describe your changes in detail
+Describe your changes in detail ku dar si detail ah wax walpa
 
 Related Issue
 Reference the related issue(s) here, if applicable. For example, "Fixes #123" or "Addresses #456"
