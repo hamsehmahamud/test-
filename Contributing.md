@@ -1,5 +1,5 @@
-Contributing to Luuqad
-Thank you for considering contributing to Luuqad! We appreciate your time and effort in making this project better.
+Contributing to test 
+Thank you for considering contributing to Test! We appreciate your time and effort in making this project better.
 
 Table of Contents
 How to Contribute
